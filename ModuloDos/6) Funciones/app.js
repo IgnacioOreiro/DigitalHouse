@@ -17,3 +17,9 @@ let sumar = function (){
 function restar () {
 
 }
+
+// Scope local
+//  Cuando existen variables delcaradas exclusivamente dentro de una funcion.   fuerda de la funcion la variable es inexistente
+
+// Scope global
+//  Cuando las variables se declaran fuera de cualquier funcion. Teniendo asi un alcance a ellas en cualquier lugar del coldigo incluso dentor de otras funciones.
